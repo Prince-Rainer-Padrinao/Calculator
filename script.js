@@ -93,3 +93,7 @@ keys.addEventListener('click', (e)=>{
         
     }
 })
+
+
+// result NaN when unary  like +4 or -1 at the start of calculation
+// always need to click equals sign to proceed to next calculation
